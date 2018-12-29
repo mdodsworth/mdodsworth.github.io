@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mdodsworth.github.io/post/testing/</loc>
+    <lastmod>2018-12-28T20:22:34-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mdodsworth.github.io/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mdodsworth.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdodsworth.github.io/</loc>
+    <lastmod>2018-12-28T20:22:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdodsworth.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdodsworth.github.io/post/</loc>
+    <lastmod>2018-12-28T20:22:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdodsworth.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mdodsworth.github.io/tags/testing/</loc>
+    <lastmod>2018-12-28T20:22:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
